@@ -55,7 +55,7 @@ You need **two** API keys before running the app.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/tutorial-agent.git
+git clone https://github.com/khursheedkhanaiforgood-ai/tutorial-agent.git
 cd tutorial-agent
 
 # Install dependencies
@@ -65,7 +65,7 @@ pip3 install -r requirements.txt
 ### Option B — Install as a package
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tutorial-agent.git
+git clone https://github.com/khursheedkhanaiforgood-ai/tutorial-agent.git
 cd tutorial-agent
 
 pip3 install .
@@ -76,7 +76,7 @@ This installs a `tutorial-agent` command you can run from anywhere.
 ### Option C — Install directly from GitHub (no clone needed)
 
 ```bash
-pip3 install git+https://github.com/YOUR_USERNAME/tutorial-agent.git
+pip3 install git+https://github.com/khursheedkhanaiforgood-ai/tutorial-agent.git
 ```
 
 ---
